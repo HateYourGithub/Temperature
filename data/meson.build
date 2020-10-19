@@ -33,5 +33,5 @@ install_data (
 
 install_data (
     join_paths('css', 'main.css'),
-    install_dir: join_paths('share', 'artempopof', 'temperature', 'css')
+    install_dir: join_paths('share', 'abbysoft-team', 'temperature', 'css')
 )

@@ -17,35 +17,35 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: data/com.github.abbysoft-team.perfectpitch.desktop.in:3
-#: data/com.github.abbysoft-team.perfectpitch.appdata.xml.in:7
+#: data/com.github.artempopof.perfectpitch.desktop.in:3
+#: data/com.github.artempopof.perfectpitch.appdata.xml.in:7
 msgid "PitchPerfect"
 msgstr ""
 
-#: data/com.github.abbysoft-team.perfectpitch.desktop.in:4
+#: data/com.github.artempopof.perfectpitch.desktop.in:4
 msgid "Ear training app."
 msgstr ""
 
-#: data/com.github.abbysoft-team.perfectpitch.desktop.in:5
+#: data/com.github.artempopof.perfectpitch.desktop.in:5
 msgid "Ear training app for elementary OS."
 msgstr ""
 
-#: data/com.github.abbysoft-team.perfectpitch.desktop.in:8
-msgid "com.github.abbysoft-team.pitchperfect"
+#: data/com.github.artempopof.perfectpitch.desktop.in:8
+msgid "com.github.artempopof.pitchperfect"
 msgstr ""
 
-#: data/com.github.abbysoft-team.perfectpitch.desktop.in:11
+#: data/com.github.artempopof.perfectpitch.desktop.in:11
 msgid "Ear;Training;"
 msgstr ""
 
-#: data/com.github.abbysoft-team.perfectpitch.appdata.xml.in:8
+#: data/com.github.artempopof.perfectpitch.appdata.xml.in:8
 msgid "Ear training app"
 msgstr ""
 
-#: data/com.github.abbysoft-team.perfectpitch.appdata.xml.in:10
+#: data/com.github.artempopof.perfectpitch.appdata.xml.in:10
 msgid "A simple ear training app for elementary OS."
 msgstr ""
 
-#: data/com.github.abbysoft-team.perfectpitch.appdata.xml.in:50
+#: data/com.github.artempopof.perfectpitch.appdata.xml.in:50
 msgid "Artem Popov"
 msgstr ""

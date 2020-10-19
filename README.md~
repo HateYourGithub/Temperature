@@ -25,7 +25,7 @@ ninja
 
 ### Installing & executing
 
-To install, use `ninja install`, then execute with `com.github.abbysoft-team.temperature`.
+To install, use `ninja install`, then execute with `com.github.artempopof.temperature`.
 
 ```bash
 sudo ninja install

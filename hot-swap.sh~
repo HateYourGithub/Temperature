@@ -3,5 +3,5 @@ meson build --prefix=/usr
 cd build
 cp -r ../data/* ./
 ninja
-./com.github.abbysoft-team.temperature
+./com.github.artempopof.temperature
 

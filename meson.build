@@ -1,4 +1,4 @@
-project('com.github.artempopof.temperature', 'vala', 'c', version: '0.0.1')
+project('com.github.abbysoft-team.temperature', 'vala', 'c', version: '0.0.1')
 
 gnome = import('gnome')
 i18n = import('i18n')

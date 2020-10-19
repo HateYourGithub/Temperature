@@ -24,7 +24,7 @@ public class Application : Gtk.Application {
 
     Application () {
         Object (
-            application_id: "com.github.abbysoft-team.temperature",
+            application_id: "com.github.artempopof.temperature",
             flags: ApplicationFlags.FLAGS_NONE
         );
     }
@@ -32,6 +32,9 @@ public class Application : Gtk.Application {
   
     protected override void activate () {
         var main_window = create_main_window ();
+        
+        var how_to_message = new Granite.Widgets.Welcome ((_("Guess boosted frequency")), (_("Peaking (Bell) EQ filter is being used to boost a certain frequency range. You need to guess boosted frequency. Use the EQ on/off buttons to compare the equalized and non equalized sounds.")));
+       
        
         cpu_temp_label = new Granite.Widgets.Welcome (get_cpu_temp (), "");
         //temperature_label.get_style_context ().add_class (Granite.STYLE_CLASS_H1_LABEL);

@@ -1,0 +1,10 @@
+# ninja log v5
+0	2	1602879543	as-resources.c	179316e64f231950
+0	3	1602879543	as-resources.h	37fe064f27780391
+3	133	1602879543	com.github.artempopof.temperature@exe/meson-generated_.._as-resources.c.o	d1691c8aebdb65cc
+1	239	1602879543	data/com.github.artempopof.temperature.appdata.xml	a5685449ef09aa33
+1	266	1602879543	data/com.github.artempopof.temperature.desktop	c6968c71db52bb81
+0	366	1602879543	com.github.artempopof.temperature@exe/src/Application.c	59af64403725dc53
+366	564	1602879543	com.github.artempopof.temperature@exe/meson-generated_src_Application.c.o	a7beca22c61304bf
+565	637	1602879543	com.github.artempopof.temperature	9ee2c7f54b3b5b7b
+3	7190	0	meson-install	9bd7faa9472bf40f

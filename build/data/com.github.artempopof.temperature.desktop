@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Temperature
+GenericName=Temperature cpu control
+Comment=Control your cpu temperature.
+Categories=Utility;
+Exec=com.github.artempopof.temperature
+Icon=com.github.artempopof.temperature
+Terminal=false
+Type=Application
+Keywords=CPU;Temp;Termal;Temperature;fan;performance;overclocking
